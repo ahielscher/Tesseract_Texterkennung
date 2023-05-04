@@ -48,7 +48,8 @@ PROBLEME
 
 
 
-TESTS UND ANPASSUNGEN:
+TESTS UND ANPASSUNGEN
+
 Verschiedene Parameter bei Text verändert, da Tesseract eigentlich für gedruckten Text ist.:
     - Anordnung (auf einer Linie oder nicht)
     - Unregelmässigkeit von Schriftart
